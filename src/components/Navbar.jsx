@@ -6,9 +6,7 @@ import { logo, menu, close } from "../assets";
 
 const Navbar = () => {
   return <nav 
-  className={`
-      ${styles.paddingX}
-  `}>
+  className={`${styles.paddingX} w-full`}>
 
   </nav>;
 };
