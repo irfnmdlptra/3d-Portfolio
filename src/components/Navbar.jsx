@@ -15,6 +15,7 @@ const Navbar = () => {
           window.scrollTo(0, 0);
         }}>
           <img src={logo} alt="logo" className="w-9 h-9 object-contain"/>
+          <p className="text-white text-[18px]">Irfnmdlptra <span>| Fronend Development</span> </p>
         </Link>
     </div>
   </nav>;
