@@ -41,7 +41,7 @@ const Home = () => {
 
               <CustomButton 
                 type="filled"
-                title="Customize It"
+                title="Kustomin aja"
                 handleClick={() => state.intro = false}
                 customStyles="w-fit px-4 py-2.5 font-bold text-sm"
               />
