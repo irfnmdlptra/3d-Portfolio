@@ -30,8 +30,8 @@ const Navbar = () => {
         ))}
         </ul>
 
-        <div>
-          
+        <div className="sm:hidden flex flex-1 justify-end items-center">
+          img
         </div>
     </div>
   </nav>;
